@@ -1,0 +1,27 @@
+[
+  {
+    "activity": "com.esbook.reader/com.esbook.reader.activity.ActLoading",
+    "xpath": "//*[@class='android.widget.TextView' and  @resource-id='com.esbook.reader:id/tt_ad_logo']"
+  },
+  
+  {
+    "activity": "com.esbook.reader/com.esbook.reader.activity.frame.ui.ActFragmentContent",
+    "xpath": "//*[@class='android.widget.ImageView' and  @resource-id='com.esbook.reader:id/view_book_header_pic_bg']"
+  },
+  
+  {
+    "activity": "com.esbook.reader/com.esbook.reader.activity.web.ActUserPayWebView",
+    "xpath": "//*[@class='android.view.View' and @text='确认充值']"
+  },
+  
+  {
+    "activity": "com.esbook.reader/com.esbook.reader.activity.web.ActUserVipWeb",
+    "xpath": "//*[@class='android.view.View' and @text='立即开通']"
+  },
+  
+  {
+    "activity": "com.esbook.reader/com.esbook.reader.activity.frame.ui.ActFragmentContent",
+    "xpath": "//*[@class='android.widget.ImageView' and  @resource-id='com.esbook.reader:id/iv_sign']"
+  }
+
+]
